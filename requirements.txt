@@ -2,5 +2,5 @@ pydub~=0.25.1
 selenium~=4.1.0
 loguru~=0.5.3
 requests~=2.26.0
-
+urllib3==1.26.11
 SpeechRecognition
